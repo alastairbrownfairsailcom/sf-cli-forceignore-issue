@@ -1,0 +1,16 @@
+{
+  "packageDirectories": [
+    {
+      "path": "my-subproject",
+      "default": false
+    },
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "sf-cli-forceignore-issue",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0"
+}

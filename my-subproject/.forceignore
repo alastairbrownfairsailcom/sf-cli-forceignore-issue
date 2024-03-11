@@ -1,0 +1,7 @@
+**/jsconfig.json
+
+**/.eslintrc.json
+
+# should not be required
+#**/DoNotDeploy.cls
+#**/DoNotDeploy.cls-meta.xml
